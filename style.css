@@ -1,0 +1,10 @@
+.slide-bg{
+    background-color: #fceae8; 
+}
+h1.slide-title{
+    color: #FF136F;
+}
+.btn.btn-slide{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+}
